@@ -1,0 +1,32 @@
+# --- Ignore Python virtual environments ---
+venv/
+env/
+ENV/
+*/venv/
+*/env/
+*/ENV/
+
+# --- Python cache / compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# --- Package build files ---
+*.egg-info/
+*.egg
+dist/
+build/
+
+# --- Environment variables ---
+.env
+*.env
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
