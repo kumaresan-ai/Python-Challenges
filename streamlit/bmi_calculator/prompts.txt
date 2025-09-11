@@ -1,0 +1,9 @@
+
+# Below is the prompt i used in GenAI tools like chatGpt, gemini, perplexity, qwen, deepseek, claude
+# and got the scripts that i have used in this project
+
+Role: you are an expert python streamlit script developer.
+
+Task: Develop BMI calculator with modern UI and add as much as options you can.
+Inputs: height & weight.
+Output: BMI value + health category (Underweight/Normal/Overweight).
