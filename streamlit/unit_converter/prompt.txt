@@ -1,0 +1,18 @@
+Role: you are an expert python streamlit script developer
+
+Task: Convert the unit from one unit to another unit.
+
+Context:
+	- UI should have dark theme
+	- it should be in single page
+	- use latest and modern components in streamlit to build the UI fancy
+	- it should have option to convert currency, temperature, length, weight and all other units
+
+Fewshots:
+	- 30 centimeter = 1 feet
+	- 1 dollar = 86 rupee
+	- 1 kilogram = 2 pound
+
+Report/Tone:
+	- the output should be rich in look. use modern UI components
+	- option to dewnload the details in pdf and excel file should be available.
